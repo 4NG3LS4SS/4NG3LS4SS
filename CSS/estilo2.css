@@ -1,0 +1,25 @@
+.texto {
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #c35a16;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-color: #c35a16;
+    margin: 0px 60px 10px 60px;
+    border-style: solid;
+    border-color: #c35a16;
+    border-width: 40px;
+}
+
+h4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: #c35a16;
+    margin: 5px 65px 0px 65px;
+    border-style: solid;
+    border-color: #c35a16;
+    border-width: 40px;
+}
